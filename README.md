@@ -33,3 +33,4 @@ Para contribuir siga os passos de forma correta, para que eu consiga dar *merge*
 * [Leony Tamio Hatakeyama](https://github.com/leonytamio)
 * [Lucimarck Dias](https://github.com/LucimarckDias)
 * [Thalyta Conrado](https://github.com/Thalyta09)
+* [Luiz Rondon](https://github.com/luizrondoon)
