@@ -35,4 +35,5 @@ Para contribuir siga os passos de forma correta, para que eu consiga dar *merge*
 * [Thalyta Conrado](https://github.com/Thalyta09)
 * [Luiz Rondon](https://github.com/luizrondoon)
 * [Luizhtanaka](https://github.com/Luizhtanaka)
+[GlaberCaso](https://github.com/GlauberCaso)
 
